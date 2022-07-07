@@ -435,7 +435,7 @@ body {
 	}
 
 	.body-2 {
-		margin-top: 6.25rem;
+		margin-top: 200px;
 		flex-flow: row nowrap;
 		justify-content: space-between;
 		align-items: flex-start;
@@ -445,6 +445,9 @@ body {
 		order: 0;
 		width: 50%;
 		align-items: flex-start;
+	}
+	.content-2 h2 {
+		font-size: var(--title-size);
 	}
 
 	.content-2 article {
